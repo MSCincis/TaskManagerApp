@@ -20,6 +20,7 @@ Front-End:
 __Design the UI for:
 - listing tasks (list item, list layout)
 - adding a new task (imput fields, button)
+  
 __Navigation:
 - implement navigation between Home  and Add Task.
 
