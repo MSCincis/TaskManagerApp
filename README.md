@@ -1,4 +1,4 @@
-# TaskManagerApp
+# TaskManagerApp devplan:
 This is a simple application using React Native with at least two screens implementing data persistence using a SQL database. 
 
 THIS IS THE PLAN:
@@ -34,3 +34,23 @@ Integration:
 
 - connect the front-end views with the back-end database operations
 - testing: Ensure the app works on both Android and iOS
+
+
+# TaskManagerApp 
+
+- node version v20.11.1
+- npm version 10.2.4
+
+Creating a new application: 
+
+- install react native CLI : npx react-native@latest init "TaskManagerApp"
+    - react native version react-native@0.73.6
+    - install CocoaPods: 
+        - cd TaskManagerApp/ios
+        - budle install 
+        - bundle exec pod install 
+
+# How to run the project:
+
+- npm start 
+    - npm run ios
